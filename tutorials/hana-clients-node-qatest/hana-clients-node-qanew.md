@@ -1,5 +1,5 @@
 ---
-title: ASD Connect Using the SAP HANA Node.js Interface QA
+title: QWE Connect Using the SAP HANA Node.js Interface QA
 description: Create and debug a Node.js application that connects to SAP HANA using the SAP HANA client.
 auto_validation: true
 time: 15
